@@ -2,7 +2,7 @@
 // Implements basic MTProto protocol with custom TLO
 
 
-const TL_SCHEMA = require('./schema');
+const TL_SCHEMA = require('./parse_schema'); // Also you can use:  const TL_SCHEMA = require('./schema');
 const TLO = require('./Tlo');
 const fs = require('fs');
 const path = require('path');
