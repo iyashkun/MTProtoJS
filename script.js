@@ -277,5 +277,3 @@ async function main() {
   process.stdin.resume();
 }
 main().catch(console.error);
-
-// - Pre-written base from @mtproto/core
