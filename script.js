@@ -1,6 +1,5 @@
 // MTProto JS Client using @mtproto/core
 // Comprehensive implementation using direct TL schema calls via the library
-// Run: node script.js
 
 const MTProto = require('@mtproto/core');
 const TL = require('@mtproto/core/tl');
